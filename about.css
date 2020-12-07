@@ -25,8 +25,13 @@
     background-image: url(photos/background3.png);
     background-repeat: no-repeat;
     background-size: cover;
-}
 
+    overflow: auto;
+    resize: both;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+}
 
 .menu h1{
     position: absolute;
