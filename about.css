@@ -123,14 +123,6 @@
     margin-bottom: 40px;
 }
 
-.pa a{
-    display: inline-block;
-    margin: 0 30px;
-    width: 100px;
-    height: 100px;
-    overflow: hidden;
-}
-
 .ps a img{
     height: 200px;
     width: 200px;
