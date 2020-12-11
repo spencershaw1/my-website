@@ -129,8 +129,7 @@
 
 .main-content img{
     height: 200px;
-    width: 250px;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .image{
@@ -232,8 +231,7 @@
 
 .main-content-2 img{
     height: 200px;
-    width: 250px;
-    object-fit: cover;
+    object-fit: fill;
 }
 
 .image-2{
